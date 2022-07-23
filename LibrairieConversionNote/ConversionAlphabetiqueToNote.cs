@@ -34,7 +34,7 @@
             }
             else
             {
-                return "ERREUR";
+                return "ERREUR! CETTE NOTE N'EXISTE PAS";
             }
         }
     }
