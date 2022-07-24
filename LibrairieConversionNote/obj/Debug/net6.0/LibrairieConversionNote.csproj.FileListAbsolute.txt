@@ -10,3 +10,15 @@ C:\Users\sarah\OneDrive\Documents\School\Summer2022\SDK_Materiel_Informatique\SD
 C:\Users\sarah\OneDrive\Documents\School\Summer2022\SDK_Materiel_Informatique\SDK_Laboratoire1\LibrairieConversionNote\obj\Debug\net6.0\refint\LibrairieConversionNote.dll
 C:\Users\sarah\OneDrive\Documents\School\Summer2022\SDK_Materiel_Informatique\SDK_Laboratoire1\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.pdb
 C:\Users\sarah\OneDrive\Documents\School\Summer2022\SDK_Materiel_Informatique\SDK_Laboratoire1\LibrairieConversionNote\obj\Debug\net6.0\ref\LibrairieConversionNote.dll
+C:\Users\guill\sdk_laboratoire1_6\sdk_laboratoire1_-EQUIPE_6-\LibrairieConversionNote\bin\Debug\net6.0\LibrairieConversionNote.deps.json
+C:\Users\guill\sdk_laboratoire1_6\sdk_laboratoire1_-EQUIPE_6-\LibrairieConversionNote\bin\Debug\net6.0\LibrairieConversionNote.dll
+C:\Users\guill\sdk_laboratoire1_6\sdk_laboratoire1_-EQUIPE_6-\LibrairieConversionNote\bin\Debug\net6.0\LibrairieConversionNote.pdb
+C:\Users\guill\sdk_laboratoire1_6\sdk_laboratoire1_-EQUIPE_6-\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.AssemblyReference.cache
+C:\Users\guill\sdk_laboratoire1_6\sdk_laboratoire1_-EQUIPE_6-\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\sdk_laboratoire1_6\sdk_laboratoire1_-EQUIPE_6-\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfoInputs.cache
+C:\Users\guill\sdk_laboratoire1_6\sdk_laboratoire1_-EQUIPE_6-\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.AssemblyInfo.cs
+C:\Users\guill\sdk_laboratoire1_6\sdk_laboratoire1_-EQUIPE_6-\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.csproj.CoreCompileInputs.cache
+C:\Users\guill\sdk_laboratoire1_6\sdk_laboratoire1_-EQUIPE_6-\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.dll
+C:\Users\guill\sdk_laboratoire1_6\sdk_laboratoire1_-EQUIPE_6-\LibrairieConversionNote\obj\Debug\net6.0\refint\LibrairieConversionNote.dll
+C:\Users\guill\sdk_laboratoire1_6\sdk_laboratoire1_-EQUIPE_6-\LibrairieConversionNote\obj\Debug\net6.0\LibrairieConversionNote.pdb
+C:\Users\guill\sdk_laboratoire1_6\sdk_laboratoire1_-EQUIPE_6-\LibrairieConversionNote\obj\Debug\net6.0\ref\LibrairieConversionNote.dll

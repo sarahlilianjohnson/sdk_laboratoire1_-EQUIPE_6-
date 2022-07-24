@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sarah\\OneDrive\\Documents\\School\\Summer2022\\SDK_Materiel_Informatique\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {}
+    "C:\\Users\\guill\\sdk_laboratoire1_6\\sdk_laboratoire1_-EQUIPE_6-\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sarah\\OneDrive\\Documents\\School\\Summer2022\\SDK_Materiel_Informatique\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {
+    "C:\\Users\\guill\\sdk_laboratoire1_6\\sdk_laboratoire1_-EQUIPE_6-\\LibrairieConversionNote\\LibrairieConversionNote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarah\\OneDrive\\Documents\\School\\Summer2022\\SDK_Materiel_Informatique\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+        "projectUniqueName": "C:\\Users\\guill\\sdk_laboratoire1_6\\sdk_laboratoire1_-EQUIPE_6-\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
         "projectName": "LibrairieConversionNote",
-        "projectPath": "C:\\Users\\sarah\\OneDrive\\Documents\\School\\Summer2022\\SDK_Materiel_Informatique\\SDK_Laboratoire1\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
-        "packagesPath": "C:\\Users\\sarah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarah\\OneDrive\\Documents\\School\\Summer2022\\SDK_Materiel_Informatique\\SDK_Laboratoire1\\LibrairieConversionNote\\obj\\",
+        "projectPath": "C:\\Users\\guill\\sdk_laboratoire1_6\\sdk_laboratoire1_-EQUIPE_6-\\LibrairieConversionNote\\LibrairieConversionNote.csproj",
+        "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guill\\sdk_laboratoire1_6\\sdk_laboratoire1_-EQUIPE_6-\\LibrairieConversionNote\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sarah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\guill\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
